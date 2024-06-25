@@ -278,7 +278,7 @@ Based on this process, we construct three different patterns in the multi-agent 
         </author>
         <author>
             <name>Yiran Wu</name>
-            <uri>https://github.com/kevin666aa</uri>
+            <uri>https://github.com/yiranwu0</uri>
         </author>
         <category label="LLM" term="LLM"/>
         <category label="GPT" term="GPT"/>
@@ -555,7 +555,7 @@ When returning <code>None</code>, the group chat will terminate. Note that some 
 </ul>]]></content>
         <author>
             <name>Yiran Wu</name>
-            <uri>https://github.com/kevin666aa</uri>
+            <uri>https://github.com/yiranwu0</uri>
         </author>
         <category label="LLM" term="LLM"/>
         <category label="research" term="research"/>
@@ -1400,7 +1400,7 @@ that can use OpenAI code interpreter to solve tasks.</p>
 <p><code>GPTAssistantAgent</code> was made possible through collaboration with
 <a href="https://github.com/IANTHEREAL" target="_blank" rel="noopener noreferrer">@IANTHEREAL</a>,
 <a href="https://leoljl.github.io/" target="_blank" rel="noopener noreferrer">Jiale Liu</a>,
-<a href="https://github.com/kevin666aa" target="_blank" rel="noopener noreferrer">Yiran Wu</a>,
+<a href="https://github.com/yiranwu0" target="_blank" rel="noopener noreferrer">Yiran Wu</a>,
 <a href="https://qingyun-wu.github.io/" target="_blank" rel="noopener noreferrer">Qingyun Wu</a>,
 <a href="https://www.microsoft.com/en-us/research/people/chiw/" target="_blank" rel="noopener noreferrer">Chi Wang</a>, and many other AutoGen maintainers.</p>]]></content>
         <author>
